@@ -1,0 +1,31 @@
+{
+  "name": "practice",
+  "description": "> node -v",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "^2.27.9",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp.spritesmith": "^6.12.1",
+    "rimraf": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neverest1827/practice.git"
+  },
+  "author": "Vitalii Fetisov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neverest1827/practice/issues"
+  },
+  "homepage": "https://github.com/neverest1827/practice#readme",
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}
